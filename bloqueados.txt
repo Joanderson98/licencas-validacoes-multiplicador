@@ -1,2 +1,3 @@
 # Chaves bloqueadas
 LIC-2026-10-07-1BE737AD
+LIC-2026-10-07-4011F762
